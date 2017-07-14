@@ -1,0 +1,19 @@
+Lets try to look at two most important concepts of  this app.
+
+TIME AND ACTIVITY
+
+
+ACTIVITY
+ An activity could have the following variables associated to it.
+    Id;
+    Name;
+    Description;
+    Start timestamp;
+    Stop timestamp
+    Status;
+    Venue;
+    Tags or related Previous Activities;
+ The above information can be stored in a database of some sort and used to make necessary sugestions to user
+ feel free to contribute to this file.
+    
+    
