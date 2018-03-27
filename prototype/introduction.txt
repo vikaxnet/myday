@@ -20,4 +20,7 @@ ACTIVITY
  One question to ask is if the site is going to be online or offline since you are talking of database and suggestion
  
  TIME
- 
+ // vikaxnet reply
+ Th app is meant to be a offline of-course. we will make use of sqlite in android to store our informations.
+ So lets talk about time here.
+
